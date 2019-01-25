@@ -29,3 +29,4 @@
 ;key; ./key29.skf
 ;key; ./key30.skf
 ;data; ./data.ctl
+;meta; ./meta.ctl
